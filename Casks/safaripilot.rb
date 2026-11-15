@@ -4,7 +4,7 @@ cask "safaripilot" do
 
   url "https://github.com/johnsusek/SafariPilotMCP/releases/download/v#{version}/SafariPilot-#{version}.dmg"
   name "SafariPilot"
-  desc "MCP server that lets Claude work in Safari in the background"
+  desc "MCP server that lets AI agents work in your Safari in the background"
   homepage "https://github.com/johnsusek/SafariPilotMCP"
 
   livecheck do
