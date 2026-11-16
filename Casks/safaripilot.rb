@@ -1,6 +1,6 @@
 cask "safaripilot" do
-  version "0.2.2"
-  sha256 "e12e9dc7a04ed2398127f45f6f0378d13be76150838897b656a513ad752049dc"
+  version "0.2.3"
+  sha256 "c4be9f878fe7b61c0a2066fd7d002a8e1b77d0b833203d0db9c82572b9a7f658"
 
   url "https://github.com/johnsusek/SafariPilotMCP/releases/download/v#{version}/SafariPilot-#{version}.dmg"
   name "SafariPilot"
